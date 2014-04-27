@@ -38,7 +38,7 @@ require "twilio/Services/Twilio.php";
 
 $config = array(
     'greeting_audio' => 'audio/acme_greeting.mp3',
-    'company_name'   => 'ACME Industries'
+    'company_name'   => 'ACME Industries',
     'email_voicemail' => 'voicemail@example.org',
     'forward_rules'  => array(
         '1' => array(
